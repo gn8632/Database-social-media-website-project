@@ -2,6 +2,8 @@
 
 Social media website 
 
+Technology used: Java, JSP, HTML, CSS, MySQL database 
+
 User can: 
 1) signup a new account and login into the existing account.
 2) upload and delete an image. Add, edit, or remove the image tag. Like and dislike an image.
